@@ -1,0 +1,7 @@
+credentials.json
+token.json
+token.js
+node_modules/
+vercel.json
+package-lock.json
+domain.txt
